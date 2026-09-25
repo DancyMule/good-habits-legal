@@ -10,7 +10,17 @@ lang: es
 
 Good Habits, desarrollada por DancyMule, te permite solicitar la eliminación de tu cuenta y de sus datos.
 
-## Cómo solicitar la eliminación
+## Eliminar tu cuenta desde la app
+
+1. Abre Good Habits e inicia sesión.
+2. Al final de la pantalla principal toca **Acerca de Good Habits**.
+3. Toca **Eliminar cuenta** y confirma.
+
+La eliminación es inmediata. Se necesita conexión a internet.
+
+## Solicitar la eliminación por correo
+
+Si ya no puedes usar la app:
 
 1. Envía un correo a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com) desde la dirección de la cuenta de Google que usas en Good Habits.
 2. Usa el asunto "Eliminar mi cuenta de Good Habits".

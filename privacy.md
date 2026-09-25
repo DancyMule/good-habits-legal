@@ -53,7 +53,7 @@ You can turn off notifications at any time in your device settings.
 
 ## Account deletion
 
-You can ask us to delete your account and its data. See [Account deletion](../account-deletion/) for the steps.
+You can delete your account and its data from the app (About Good Habits, then Delete account) or ask us by email. See [Account deletion](../account-deletion/) for the steps.
 
 ## Security
 
