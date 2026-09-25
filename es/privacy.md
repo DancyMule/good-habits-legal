@@ -54,7 +54,7 @@ Puedes desactivar las notificaciones en cualquier momento desde los ajustes de t
 
 ## Eliminación de la cuenta
 
-Puedes pedirnos que eliminemos tu cuenta y sus datos. Consulta [Eliminación de cuenta](../account-deletion/) para ver los pasos.
+Puedes eliminar tu cuenta y sus datos desde la app (Acerca de Good Habits y luego Eliminar cuenta) o pedírnoslo por correo. Consulta [Eliminación de cuenta](../account-deletion/) para ver los pasos.
 
 ## Seguridad
 
