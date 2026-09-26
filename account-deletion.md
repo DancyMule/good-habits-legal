@@ -5,7 +5,7 @@ permalink: /account-deletion/
 
 # Delete your Good Habits account
 
-Last updated: September 25, 2026
+Last updated: September 26, 2026
 
 Good Habits, developed by DancyMule, lets you request the deletion of your account and its data.
 
@@ -31,7 +31,8 @@ If you can no longer use the app:
 |---|---|
 | Profile (name, email, profile photo URL, Google identifier) | Deleted |
 | Sessions and sign-in credentials | Deleted |
-| Habits stored on our servers | Deleted |
+| Habits and habit groups stored on our servers | Deleted |
+| App preferences such as your mascot | Deleted |
 | Plan information | Deleted |
 | Server logs | Kept for up to 90 days for security, then deleted |
 | Records we must keep by law | Kept only for the period the law requires |

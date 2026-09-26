@@ -6,7 +6,7 @@ lang: es
 
 # Eliminar tu cuenta de Good Habits
 
-Última actualización: 25 de septiembre de 2026
+Última actualización: 26 de septiembre de 2026
 
 Good Habits, desarrollada por DancyMule, te permite solicitar la eliminación de tu cuenta y de sus datos.
 
@@ -32,7 +32,8 @@ Si ya no puedes usar la app:
 |---|---|
 | Perfil (nombre, correo, URL de la foto de perfil, identificador de Google) | Se elimina |
 | Sesiones y credenciales de acceso | Se eliminan |
-| Hábitos guardados en nuestros servidores | Se eliminan |
+| Hábitos y grupos guardados en nuestros servidores | Se eliminan |
+| Preferencias de la app como tu mascota | Se eliminan |
 | Información del plan | Se elimina |
 | Registros del servidor | Se conservan hasta 90 días por seguridad y luego se eliminan |
 | Registros que la ley nos obliga a conservar | Se conservan solo durante el plazo legal |
