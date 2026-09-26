@@ -6,7 +6,7 @@ lang: es
 
 # Política de Privacidad
 
-Última actualización: 25 de septiembre de 2026
+Última actualización: 26 de septiembre de 2026
 
 Esta política explica cómo Good Habits (la "app") trata tu información. Good Habits es desarrollada por DancyMule ("nosotros"). Si tienes preguntas escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
 
@@ -16,7 +16,9 @@ Esta política explica cómo Good Habits (la "app") trata tu información. Good 
 |---|---|---|
 | Información de tu cuenta de Google | Nombre, correo electrónico, URL de la foto de perfil e identificador de tu cuenta de Google. La recibimos cuando inicias sesión con Google. | Nuestros servidores |
 | Credenciales de sesión | Tokens de acceso y de actualización que mantienen tu sesión abierta. Nuestros servidores guardan solo un hash de cada token. | Cifradas en tu dispositivo y como hash en nuestros servidores |
-| Información de tus hábitos | Nombre del hábito, descripción opcional, calendario, color y si los recordatorios están activos. | En tu dispositivo. Cuando la sincronización de cuenta esté disponible la definición del hábito también se guardará en nuestros servidores. |
+| Información de tus hábitos | Nombre del hábito, descripción opcional, calendario, color, el grupo al que pertenece y si los recordatorios están activos. | En tu dispositivo y en nuestros servidores, para que tus hábitos se queden con tu cuenta |
+| Grupos de hábitos | Nombre del grupo, color, ícono, orden y si el grupo está en pausa. | En tu dispositivo y en nuestros servidores |
+| Preferencias de la app | La mascota que eliges. | Nuestros servidores, con una copia en tu dispositivo |
 | Horario de recordatorios | El momento en que debe sonar el próximo recordatorio. | Solo en tu dispositivo |
 | Información del plan | Tu plan (por ejemplo gratuito) y sus límites. | Nuestros servidores |
 | Datos técnicos | Dirección IP, hora de la solicitud y detalles de errores que registran nuestros servidores al atender solicitudes. | Nuestros servidores y proveedores de hospedaje |
@@ -26,7 +28,7 @@ No recopilamos tu ubicación, contactos, fotos ni identificador de publicidad. L
 ## Cómo usamos la información
 
 - Para crear tu cuenta e iniciar tu sesión.
-- Para guardar tus hábitos y mostrar recordatorios locales en tu dispositivo.
+- Para guardar tus hábitos y grupos, mantenerlos sincronizados entre tus dispositivos y mostrar recordatorios locales en tu dispositivo.
 - Para aplicar los límites de tu plan y mantener el servicio seguro.
 - Para atender tus solicitudes y cumplir obligaciones legales.
 
@@ -44,7 +46,7 @@ Si la copia de seguridad de Android está activada en tu dispositivo, Android pu
 
 ## Conservación
 
-Conservamos la información de tu cuenta mientras exista. Tras una solicitud de eliminación borramos los datos de tu cuenta en un plazo de 30 días. Los registros del servidor se conservan hasta 90 días salvo que se necesiten para investigar un incidente de seguridad. Los datos en tu dispositivo permanecen hasta que los borres o desinstales la app.
+Conservamos la información de tu cuenta mientras exista. Tras una solicitud de eliminación borramos los datos de tu cuenta en un plazo de 30 días. Los registros del servidor se conservan hasta 90 días salvo que se necesiten para investigar un incidente de seguridad. Los datos en tu dispositivo permanecen hasta que cierres sesión, los borres o desinstales la app.
 
 ## Tus opciones y derechos
 

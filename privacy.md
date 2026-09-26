@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated: September 25, 2026
+Last updated: September 26, 2026
 
 This policy explains how Good Habits (the "app") handles your information. Good Habits is developed by DancyMule ("we" or "us"). If you have questions write to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
 
@@ -15,7 +15,9 @@ This policy explains how Good Habits (the "app") handles your information. Good 
 |---|---|---|
 | Google account information | Name, email address, profile photo URL, and your Google account identifier. We receive it when you sign in with Google. | Our servers |
 | Session credentials | Access and refresh tokens that keep you signed in. Our servers keep only a one-way hash of each token. | Encrypted on your device and hashed on our servers |
-| Habit information | Habit name, optional description, schedule, color, and whether reminders are active. | On your device. When account synchronization is available the habit definition is also stored on our servers. |
+| Habit information | Habit name, optional description, schedule, color, the group it belongs to, and whether reminders are active. | On your device and on our servers, so your habits stay with your account |
+| Habit groups | Group name, color, icon, order, and whether the group is paused. | On your device and on our servers |
+| App preferences | The mascot you choose. | Our servers, with a copy on your device |
 | Reminder timing | The next time a reminder should fire. | Only on your device |
 | Plan information | Your plan (for example free) and its limits. | Our servers |
 | Technical data | IP address, request time, and error details our servers record while handling requests. | Our servers and hosting providers |
@@ -25,7 +27,7 @@ We do not collect your location, contacts, photos, or advertising identifier. Th
 ## How we use information
 
 - To create your account and sign you in.
-- To store your habits and show local reminders on your device.
+- To store your habits and groups, keep them in sync across your devices, and show local reminders on your device.
 - To apply plan limits and keep the service secure.
 - To respond to your requests and comply with legal obligations.
 
@@ -43,7 +45,7 @@ If Android backup is turned on for your device, Android may include your habits 
 
 ## Retention
 
-We keep your account information while your account exists. After a deletion request we delete your account data within 30 days. Server logs are kept for up to 90 days unless they are needed to investigate a security incident. Data on your device stays until you delete it or uninstall the app.
+We keep your account information while your account exists. After a deletion request we delete your account data within 30 days. Server logs are kept for up to 90 days unless they are needed to investigate a security incident. Data on your device stays until you sign out, delete it, or uninstall the app.
 
 ## Your choices and rights
 
