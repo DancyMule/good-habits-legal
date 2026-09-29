@@ -5,14 +5,14 @@ permalink: /account-deletion/
 
 # Delete your Good Habits account
 
-Last updated: September 26, 2026
+Last updated: September 29, 2026
 
 Good Habits, developed by DancyMule, lets you request the deletion of your account and its data.
 
 ## Delete your account in the app
 
 1. Open Good Habits and sign in.
-2. At the bottom of the home screen tap **About Good Habits**.
+2. Tap **Profile** in the bottom bar.
 3. Tap **Delete account** and confirm.
 
 The deletion is immediate. An internet connection is required.
@@ -33,7 +33,7 @@ If you can no longer use the app:
 | Sessions and sign-in credentials | Deleted |
 | Habits and habit groups stored on our servers | Deleted |
 | App preferences such as your mascot | Deleted |
-| Plan information | Deleted |
+| Plan information and free Premium records | Deleted |
 | Server logs | Kept for up to 90 days for security, then deleted |
 | Records we must keep by law | Kept only for the period the law requires |
 

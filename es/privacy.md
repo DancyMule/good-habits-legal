@@ -6,7 +6,7 @@ lang: es
 
 # Política de Privacidad
 
-Última actualización: 26 de septiembre de 2026
+Última actualización: 29 de septiembre de 2026
 
 Esta política explica cómo Good Habits (la "app") trata tu información. Good Habits es desarrollada por DancyMule ("nosotros"). Si tienes preguntas escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
 
@@ -18,21 +18,30 @@ Esta política explica cómo Good Habits (la "app") trata tu información. Good 
 | Credenciales de sesión | Tokens de acceso y de actualización que mantienen tu sesión abierta. Nuestros servidores guardan solo un hash de cada token. | Cifradas en tu dispositivo y como hash en nuestros servidores |
 | Información de tus hábitos | Nombre del hábito, descripción opcional, calendario, color, el grupo al que pertenece y si los recordatorios están activos. | En tu dispositivo y en nuestros servidores, para que tus hábitos se queden con tu cuenta |
 | Grupos de hábitos | Nombre del grupo, color, ícono, orden y si el grupo está en pausa. | En tu dispositivo y en nuestros servidores |
-| Preferencias de la app | La mascota que eliges. | Nuestros servidores, con una copia en tu dispositivo |
+| Preferencias de la app | La mascota que eliges. | Nuestros servidores, con una copia en tu dispositivo y en tu reloj Wear OS vinculado |
 | Horario de recordatorios | El momento en que debe sonar el próximo recordatorio. | Solo en tu dispositivo |
-| Información del plan | Tu plan (por ejemplo gratuito) y sus límites. | Nuestros servidores |
+| Información del plan | Tu plan (por ejemplo gratuito o Premium), sus límites y cualquier Premium que te regalemos, con el motivo, las fechas y quién lo otorgó. | Nuestros servidores |
 | Datos técnicos | Dirección IP, hora de la solicitud y detalles de errores que registran nuestros servidores al atender solicitudes. | Nuestros servidores y proveedores de hospedaje |
 
 No recopilamos tu ubicación, contactos, fotos ni identificador de publicidad. La app no incluye SDK de publicidad ni de analítica.
+
+## Reloj Wear OS
+
+Si instalas Good Habits en un reloj Wear OS vinculado a tu teléfono, el teléfono le envía al reloj cada recordatorio (nombre, descripción y color del hábito) y tu mascota, y el reloj le avisa al teléfono cuando completas o pospones un recordatorio. Estos datos viajan directamente entre tus dispositivos por la conexión Wear OS de Google y no se guardan en nuestros servidores.
 
 ## Cómo usamos la información
 
 - Para crear tu cuenta e iniciar tu sesión.
 - Para guardar tus hábitos y grupos, mantenerlos sincronizados entre tus dispositivos y mostrar recordatorios locales en tu dispositivo.
 - Para aplicar los límites de tu plan y mantener el servicio seguro.
-- Para atender tus solicitudes y cumplir obligaciones legales.
+- Para atender tus solicitudes, dar soporte y cumplir obligaciones legales.
+- Para regalar Premium a algunas cuentas, por ejemplo a quienes prueban la app.
 
 Tratamos la información para prestar el servicio que solicitaste, por nuestro interés legítimo en mantenerlo seguro y funcionando, y cuando la ley lo exige. No vendemos tu información personal ni la usamos para publicidad.
+
+## Quién puede ver tu información
+
+Solo el desarrollador de Good Habits puede ver los datos de las cuentas en nuestros servidores, mediante una herramienta de administración privada protegida con inicio de sesión de Google. La usa para dar soporte, resolver problemas con tu cuenta y regalar o quitar Premium. Esa herramienta muestra tu nombre, correo, plan y tus hábitos y grupos con sus horarios. No usamos este acceso para ningún otro fin.
 
 ## Con quién compartimos información
 
@@ -56,7 +65,7 @@ Puedes desactivar las notificaciones en cualquier momento desde los ajustes de t
 
 ## Eliminación de la cuenta
 
-Puedes eliminar tu cuenta y sus datos desde la app (Acerca de Good Habits y luego Eliminar cuenta) o pedírnoslo por correo. Consulta [Eliminación de cuenta](../account-deletion/) para ver los pasos.
+Puedes eliminar tu cuenta y sus datos desde la app (Perfil y luego Eliminar cuenta) o pedírnoslo por correo. Consulta [Eliminación de cuenta](../account-deletion/) para ver los pasos.
 
 ## Seguridad
 
