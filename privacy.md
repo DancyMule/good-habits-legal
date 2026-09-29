@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated: September 26, 2026
+Last updated: September 29, 2026
 
 This policy explains how Good Habits (the "app") handles your information. Good Habits is developed by DancyMule ("we" or "us"). If you have questions write to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
 
@@ -17,21 +17,30 @@ This policy explains how Good Habits (the "app") handles your information. Good 
 | Session credentials | Access and refresh tokens that keep you signed in. Our servers keep only a one-way hash of each token. | Encrypted on your device and hashed on our servers |
 | Habit information | Habit name, optional description, schedule, color, the group it belongs to, and whether reminders are active. | On your device and on our servers, so your habits stay with your account |
 | Habit groups | Group name, color, icon, order, and whether the group is paused. | On your device and on our servers |
-| App preferences | The mascot you choose. | Our servers, with a copy on your device |
+| App preferences | The mascot you choose. | Our servers, with a copy on your device and on your paired Wear OS watch |
 | Reminder timing | The next time a reminder should fire. | Only on your device |
-| Plan information | Your plan (for example free) and its limits. | Our servers |
+| Plan information | Your plan (for example free or Premium), its limits, and any Premium we give you for free, with the reason, dates, and who gave it. | Our servers |
 | Technical data | IP address, request time, and error details our servers record while handling requests. | Our servers and hosting providers |
 
 We do not collect your location, contacts, photos, or advertising identifier. The app does not include advertising or analytics SDKs.
+
+## Wear OS watch
+
+If you install Good Habits on a Wear OS watch paired with your phone, the phone sends the watch each reminder (habit name, description, and color) and your mascot, and the watch sends back when you complete or snooze a reminder. This data travels directly between your devices through Google's Wear OS connection and is not stored on our servers.
 
 ## How we use information
 
 - To create your account and sign you in.
 - To store your habits and groups, keep them in sync across your devices, and show local reminders on your device.
 - To apply plan limits and keep the service secure.
-- To respond to your requests and comply with legal obligations.
+- To respond to your requests, give support, and comply with legal obligations.
+- To give Premium for free to some accounts, for example testers.
 
 We process information to provide the service you requested, for our legitimate interest in keeping it secure and working, and when required by law. We do not sell your personal information and we do not use it for advertising.
+
+## Who can see your information
+
+Only the developer of Good Habits can see account data on our servers, through a private administration tool protected by Google sign-in. The developer uses it to give support, fix problems with your account, and give or remove free Premium. That tool shows your name, email, plan, and your habits and groups with their schedules. We do not use this access for any other purpose.
 
 ## How information is shared
 
@@ -55,7 +64,7 @@ You can turn off notifications at any time in your device settings.
 
 ## Account deletion
 
-You can delete your account and its data from the app (About Good Habits, then Delete account) or ask us by email. See [Account deletion](../account-deletion/) for the steps.
+You can delete your account and its data from the app (Profile, then Delete account) or ask us by email. See [Account deletion](../account-deletion/) for the steps.
 
 ## Security
 

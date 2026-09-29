@@ -6,14 +6,14 @@ lang: es
 
 # Eliminar tu cuenta de Good Habits
 
-Última actualización: 26 de septiembre de 2026
+Última actualización: 29 de septiembre de 2026
 
 Good Habits, desarrollada por DancyMule, te permite solicitar la eliminación de tu cuenta y de sus datos.
 
 ## Eliminar tu cuenta desde la app
 
 1. Abre Good Habits e inicia sesión.
-2. Al final de la pantalla principal toca **Acerca de Good Habits**.
+2. Toca **Perfil** en la barra inferior.
 3. Toca **Eliminar cuenta** y confirma.
 
 La eliminación es inmediata. Se necesita conexión a internet.
@@ -34,7 +34,7 @@ Si ya no puedes usar la app:
 | Sesiones y credenciales de acceso | Se eliminan |
 | Hábitos y grupos guardados en nuestros servidores | Se eliminan |
 | Preferencias de la app como tu mascota | Se eliminan |
-| Información del plan | Se elimina |
+| Información del plan y registros de Premium regalado | Se elimina |
 | Registros del servidor | Se conservan hasta 90 días por seguridad y luego se eliminan |
 | Registros que la ley nos obliga a conservar | Se conservan solo durante el plazo legal |
 
