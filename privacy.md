@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated: September 29, 2026
+Last updated: October 1, 2026
 
 This policy explains how Good Habits (the "app") handles your information. Good Habits is developed by DancyMule ("we" or "us"). If you have questions write to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
 
@@ -20,6 +20,10 @@ This policy explains how Good Habits (the "app") handles your information. Good 
 | App preferences | The mascot you choose. | Our servers, with a copy on your device and on your paired Wear OS watch |
 | Reminder timing | The next time a reminder should fire. | Only on your device |
 | Plan information | Your plan (for example free or Premium), its limits, and any Premium we give you for free, with the reason, dates, and who gave it. | Our servers |
+| Community profile | Your nickname, when you accepted the community rules, and whether you can publish. Your nickname and mascot are public. | Our servers |
+| Published routines | The groups you publish with their habits, schedules, category, tags, and description, their versions, and how many people follow them. They are public. | Our servers |
+| Followed routines | Which routines your groups come from, which version you have, and whether they update automatically. | Our servers |
+| Reports and hidden authors | Reports you send (reason and optional comment) and the authors you hide. Only the developer sees reports. | Our servers |
 | Technical data | IP address, request time, and error details our servers record while handling requests. | Our servers and hosting providers |
 
 We do not collect your location, contacts, photos, or advertising identifier. The app does not include advertising or analytics SDKs.
@@ -28,6 +32,15 @@ We do not collect your location, contacts, photos, or advertising identifier. Th
 
 If you install Good Habits on a Wear OS watch paired with your phone, the phone sends the watch each reminder (habit name, description, and color) and your mascot, and the watch sends back when you complete or snooze a reminder. This data travels directly between your devices through Google's Wear OS connection and is not stored on our servers.
 
+## Community
+
+If you use the Community tab:
+
+- Your nickname, your mascot, and the routines you publish are public. People who use the app can see them, and anyone with a routine link can see its name, description, author nickname, follower count, and habits with their schedules on getgoodhabits.app. Your Google name, email, and photo are never shown.
+- To suggest routines in "For you" our servers compare the categories and tags of the routines you follow and the words in the names of your own habits with public routines. This happens only on our servers. Your habit names are not shown to anyone else and are not used for advertising.
+- Authors do not see who reported their routines.
+- When you unpublish a routine or delete your account the routine stops being public. Copies that other people already follow stay in their accounts.
+
 ## How we use information
 
 - To create your account and sign you in.
@@ -35,12 +48,13 @@ If you install Good Habits on a Wear OS watch paired with your phone, the phone 
 - To apply plan limits and keep the service secure.
 - To respond to your requests, give support, and comply with legal obligations.
 - To give Premium for free to some accounts, for example testers.
+- To run Community: show your public nickname and routines, suggest routines, and review reports.
 
 We process information to provide the service you requested, for our legitimate interest in keeping it secure and working, and when required by law. We do not sell your personal information and we do not use it for advertising.
 
 ## Who can see your information
 
-Only the developer of Good Habits can see account data on our servers, through a private administration tool protected by Google sign-in. The developer uses it to give support, fix problems with your account, and give or remove free Premium. That tool shows your name, email, plan, and your habits and groups with their schedules. We do not use this access for any other purpose.
+Only the developer of Good Habits can see account data on our servers, through a private administration tool protected by Google sign-in. The developer uses it to give support, fix problems with your account, and give or remove free Premium. That tool shows your name, email, plan, and your habits and groups with their schedules. The same tool shows community reports with their reason and comment, and lets the developer remove routines or suspend publishing. We do not use this access for any other purpose.
 
 ## How information is shared
 

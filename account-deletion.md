@@ -34,6 +34,7 @@ If you can no longer use the app:
 | Habits and habit groups stored on our servers | Deleted |
 | App preferences such as your mascot | Deleted |
 | Plan information and free Premium records | Deleted |
+| Community nickname, published routines, your reports, and hidden authors | Deleted. Copies other people already follow stay in their accounts |
 | Server logs | Kept for up to 90 days for security, then deleted |
 | Records we must keep by law | Kept only for the period the law requires |
 
