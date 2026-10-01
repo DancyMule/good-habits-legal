@@ -35,6 +35,7 @@ Si ya no puedes usar la app:
 | Hábitos y grupos guardados en nuestros servidores | Se eliminan |
 | Preferencias de la app como tu mascota | Se eliminan |
 | Información del plan y registros de Premium regalado | Se elimina |
+| Apodo de la comunidad, rutinas publicadas, tus reportes y autores ocultos | Se eliminan. Las copias que otras personas ya siguen se quedan en sus cuentas |
 | Registros del servidor | Se conservan hasta 90 días por seguridad y luego se eliminan |
 | Registros que la ley nos obliga a conservar | Se conservan solo durante el plazo legal |
 
