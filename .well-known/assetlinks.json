@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dancymule.goodhabits",
+      "sha256_cert_fingerprints": [
+        "19:71:EC:CA:FA:37:E6:BD:92:CE:B2:63:25:FB:74:61:F8:31:6B:BE:7B:29:20:EA:B1:ED:36:8B:70:D7:03:96",
+        "5B:36:A5:F9:C0:A4:E1:35:6F:FE:6E:41:3B:DC:08:E1:5E:B6:CE:9D:84:B6:BF:38:63:AD:75:90:83:9F:5E:2F"
+      ]
+    }
+  }
+]

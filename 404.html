@@ -1,0 +1,91 @@
+---
+title: Good Habits
+permalink: /404.html
+---
+
+<div id="routine" hidden>
+  <p id="routine-intro"></p>
+  <h1 id="routine-name"></h1>
+  <p id="routine-author"></p>
+  <p id="routine-description"></p>
+  <ul id="routine-habits"></ul>
+  <p><a id="routine-install" href="https://play.google.com/store/apps/details?id=com.dancymule.goodhabits"></a></p>
+  <p id="routine-open-hint"></p>
+</div>
+
+<div id="routine-missing" hidden>
+  <h1 id="routine-missing-title"></h1>
+  <p><a id="routine-missing-install" href="https://play.google.com/store/apps/details?id=com.dancymule.goodhabits"></a></p>
+</div>
+
+<div id="not-found">
+  <h1>Page not found</h1>
+  <p><a href="/">Go to Good Habits</a></p>
+</div>
+
+<script>
+  (function () {
+    var match = window.location.pathname.match(/^\/r\/([A-Za-z0-9]{6,16})\/?$/);
+    if (!match) return;
+
+    var spanish = (navigator.language || "").toLowerCase().indexOf("es") === 0;
+    var text = spanish ? {
+      intro: "Rutina de la comunidad de Good Habits",
+      author: "de @",
+      followers: function (count) { return count === 1 ? "1 seguidor" : count + " seguidores"; },
+      install: "Descarga Good Habits en Google Play para seguir esta rutina",
+      hint: "Si ya tienes la app, abre este enlace desde tu teléfono Android.",
+      missing: "Esta rutina ya no está disponible",
+      missingInstall: "Conoce Good Habits en Google Play"
+    } : {
+      intro: "A Good Habits community routine",
+      author: "by @",
+      followers: function (count) { return count === 1 ? "1 follower" : count + " followers"; },
+      install: "Get Good Habits on Google Play to follow this routine",
+      hint: "If you already have the app, open this link on your Android phone.",
+      missing: "This routine is no longer available",
+      missingInstall: "Discover Good Habits on Google Play"
+    };
+
+    document.getElementById("not-found").hidden = true;
+
+    function showMissing() {
+      document.title = text.missing;
+      document.getElementById("routine-missing-title").textContent = text.missing;
+      document.getElementById("routine-missing-install").textContent = text.missingInstall;
+      document.getElementById("routine-missing").hidden = false;
+    }
+
+    function time(minutes) {
+      if (minutes === null || minutes === undefined) return "";
+      var hours = Math.floor(minutes / 60);
+      var rest = minutes % 60;
+      return (hours < 10 ? "0" : "") + hours + ":" + (rest < 10 ? "0" : "") + rest;
+    }
+
+    fetch("https://api.getgoodhabits.app/api/v1/public/routines/" + encodeURIComponent(match[1]))
+      .then(function (response) {
+        if (!response.ok) throw new Error("missing");
+        return response.json();
+      })
+      .then(function (routine) {
+        document.title = routine.name + " · Good Habits";
+        document.getElementById("routine-intro").textContent = text.intro;
+        document.getElementById("routine-name").textContent = routine.name;
+        document.getElementById("routine-author").textContent =
+          text.author + routine.authorNickname + " · " + text.followers(routine.followerCount);
+        document.getElementById("routine-description").textContent = routine.description || "";
+        var list = document.getElementById("routine-habits");
+        routine.habits.forEach(function (habit) {
+          var item = document.createElement("li");
+          var at = time(habit.timeMinutesOfDay);
+          item.textContent = at ? habit.name + " · " + at : habit.name;
+          list.appendChild(item);
+        });
+        document.getElementById("routine-install").textContent = text.install;
+        document.getElementById("routine-open-hint").textContent = text.hint;
+        document.getElementById("routine").hidden = false;
+      })
+      .catch(showMissing);
+  })();
+</script>
