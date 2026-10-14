@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "57WTS4Y7PC.com.dancymule.goodhabits",
+          "57WTS4Y7PC.com.dancymule.goodhabits.dev"
+        ],
+        "components": [
+          {
+            "/": "/r/*",
+            "comment": "Community routine links"
+          }
+        ]
+      }
+    ]
+  }
+}
