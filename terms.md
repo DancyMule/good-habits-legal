@@ -5,7 +5,7 @@ permalink: /terms/
 
 # Terms of Service
 
-Last updated: October 1, 2026
+Last updated: October 13, 2026
 
 These terms govern your use of Good Habits (the "app"), developed by DancyMule ("we" or "us"). By creating an account you accept these terms and the [Privacy Policy](../privacy/). If you do not accept them do not create an account.
 
@@ -15,7 +15,7 @@ You must be at least 13 years old or the minimum age required in your country to
 
 ## 2. Your account
 
-You sign in with your Google account. Keep your device and Google account secure. You are responsible for activity under your account. Tell us promptly if you believe your account was used without permission.
+You sign in with your Google or Apple account. Keep your device and that account secure. You are responsible for activity under your account. Tell us promptly if you believe your account was used without permission.
 
 ## 3. The service
 
@@ -25,7 +25,14 @@ Good Habits helps you create habits and receive reminders on your device. Remind
 
 ## 4. Plans and limits
 
-The app may apply limits such as a maximum number of habits per account. Current limits are shown in the app. If we offer paid plans they will be sold through Google Play and will also be subject to Google Play terms. We will describe prices and conditions before you buy.
+The app may apply limits such as a maximum number of habits per account. Current limits are shown in the app. Premium may be offered as a paid subscription. We show the price, the billing period, and what it includes before you buy.
+
+| Store | Rules |
+|---|---|
+| App Store (iPhone) | You buy through your Apple account and Apple's terms also apply. The subscription renews automatically at the end of each period unless you cancel it at least 24 hours before the period ends, and your Apple account is charged within the 24 hours before renewal. You manage or cancel it in your Apple account settings. Deleting the app or your account does not cancel it. Apple handles refunds |
+| Google Play (Android) | If paid plans are offered on Android they will be sold through Google Play and Google Play terms will also apply |
+
+Premium we give you for free, for example while you test the app, ends on the date we set or when we remove it.
 
 ## 5. Acceptable use
 
@@ -72,6 +79,20 @@ To the extent permitted by law we are not liable for indirect, incidental, or co
 
 We may update these terms. We will change the date at the top and, for significant changes, tell you in the app before they apply. If you do not agree with the new terms stop using the app and request deletion of your account.
 
-## 14. Contact
+## 14. Apps downloaded from the App Store
+
+If you downloaded Good Habits from Apple's App Store:
+
+- These terms are between you and us, not Apple. Apple is not responsible for the app or its content.
+- You may use the app on Apple devices that you own or control, as allowed by the Usage Rules in Apple's Media Services Terms and Conditions.
+- Apple has no obligation to provide maintenance or support for the app.
+- If the app does not conform to an applicable warranty you may notify Apple, and Apple will refund the price you paid for the app, if any. Apple has no other warranty obligation for the app.
+- We, not Apple, are responsible for any claims about the app, including product liability, failure to meet legal or regulatory requirements, and consumer protection claims.
+- If someone claims that the app or your use of it infringes their intellectual property, we, not Apple, are responsible for handling that claim.
+- You confirm that you are not located in a country subject to a United States government embargo and are not on a United States government list of prohibited or restricted parties.
+- You must also follow any third party terms that apply when you use the app, such as your mobile carrier's terms.
+- Apple and its subsidiaries are third party beneficiaries of these terms and may enforce them against you.
+
+## 15. Contact
 
 [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com)
