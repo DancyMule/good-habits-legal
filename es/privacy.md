@@ -6,28 +6,30 @@ lang: es
 
 # Política de Privacidad
 
-Última actualización: 1 de octubre de 2026
+Última actualización: 13 de octubre de 2026
 
-Esta política explica cómo Good Habits (la "app") trata tu información. Good Habits es desarrollada por DancyMule ("nosotros"). Si tienes preguntas escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
+Esta política explica cómo Good Habits (la "app") trata tu información en Android, Wear OS y iPhone. Good Habits es desarrollada por DancyMule ("nosotros"). Si tienes preguntas escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
 
 ## Información que recopilamos
 
 | Categoría | Qué incluye | Dónde se guarda |
 |---|---|---|
 | Información de tu cuenta de Google | Nombre, correo electrónico, URL de la foto de perfil e identificador de tu cuenta de Google. La recibimos cuando inicias sesión con Google. | Nuestros servidores |
+| Información de tu cuenta de Apple | El identificador de tu cuenta de Apple, el correo que Apple comparte con nosotros (una dirección de reenvío privada si eliges Ocultar mi correo) y tu nombre solo si lo compartes la primera vez que inicias sesión. La recibimos cuando inicias sesión con Apple. Si vinculas Google y Apple a la misma cuenta guardamos ambos identificadores. | Nuestros servidores |
 | Credenciales de sesión | Tokens de acceso y de actualización que mantienen tu sesión abierta. Nuestros servidores guardan solo un hash de cada token. | Cifradas en tu dispositivo y como hash en nuestros servidores |
 | Información de tus hábitos | Nombre del hábito, descripción opcional, calendario, color, el grupo al que pertenece y si los recordatorios están activos. | En tu dispositivo y en nuestros servidores, para que tus hábitos se queden con tu cuenta |
 | Grupos de hábitos | Nombre del grupo, color, ícono, orden y si el grupo está en pausa. | En tu dispositivo y en nuestros servidores |
 | Preferencias de la app | La mascota que eliges. | Nuestros servidores, con una copia en tu dispositivo y en tu reloj Wear OS vinculado |
 | Horario de recordatorios | El momento en que debe sonar el próximo recordatorio. | Solo en tu dispositivo |
 | Información del plan | Tu plan (por ejemplo gratuito o Premium), sus límites y cualquier Premium que te regalemos, con el motivo, las fechas y quién lo otorgó. | Nuestros servidores |
+| Compras | Si te suscribes a Premium en la App Store: el producto, el identificador de la transacción de Apple, si fue una compra real o de prueba y cuándo vence o se reembolsó la suscripción. Apple procesa el pago. Nunca recibimos los datos de tu tarjeta ni de tu pago. | Nuestros servidores |
 | Perfil de la comunidad | Tu apodo, cuándo aceptaste las reglas de la comunidad y si puedes publicar. Tu apodo y tu mascota son públicos. | Nuestros servidores |
 | Rutinas publicadas | Los grupos que publicas con sus hábitos, horarios, categoría, tags y descripción, sus versiones y cuántas personas los siguen. Son públicas. | Nuestros servidores |
 | Rutinas que sigues | De qué rutinas vienen tus grupos, qué versión tienes y si se actualizan solas. | Nuestros servidores |
 | Reportes y autores ocultos | Los reportes que envías (motivo y comentario opcional) y los autores que ocultas. Solo el desarrollador ve los reportes. | Nuestros servidores |
 | Datos técnicos | Dirección IP, hora de la solicitud y detalles de errores que registran nuestros servidores al atender solicitudes. | Nuestros servidores y proveedores de hospedaje |
 
-No recopilamos tu ubicación, contactos, fotos ni identificador de publicidad. La app no incluye SDK de publicidad ni de analítica.
+No recopilamos tu ubicación, contactos, fotos ni identificador de publicidad, y no te rastreamos en apps o sitios web de otras empresas. La app no incluye SDK de publicidad ni de analítica.
 
 ## Reloj Wear OS
 
@@ -37,7 +39,7 @@ Si instalas Good Habits en un reloj Wear OS vinculado a tu teléfono, el teléfo
 
 Si usas la pestaña Comunidad:
 
-- Tu apodo, tu mascota y las rutinas que publicas son públicos. Quienes usan la app pueden verlos, y cualquier persona con el enlace de una rutina puede ver en getgoodhabits.app su nombre, descripción, el apodo del autor, el número de seguidores y los hábitos con sus horarios. Nunca mostramos tu nombre, correo ni foto de Google.
+- Tu apodo, tu mascota y las rutinas que publicas son públicos. Quienes usan la app pueden verlos, y cualquier persona con el enlace de una rutina puede ver en getgoodhabits.app su nombre, descripción, el apodo del autor, el número de seguidores y los hábitos con sus horarios. Nunca mostramos el nombre, el correo ni la foto de tu cuenta de Google o de Apple.
 - Para sugerir rutinas en "Para ti" nuestros servidores comparan las categorías y tags de las rutinas que sigues y las palabras de los nombres de tus propios hábitos con las rutinas públicas. Esto pasa solo en nuestros servidores. Nadie más ve los nombres de tus hábitos y no los usamos para publicidad.
 - Los autores no ven quién reportó sus rutinas.
 - Cuando dejas de publicar una rutina o eliminas tu cuenta, la rutina deja de ser pública. Las copias que otras personas ya siguen se quedan en sus cuentas.
@@ -46,7 +48,7 @@ Si usas la pestaña Comunidad:
 
 - Para crear tu cuenta e iniciar tu sesión.
 - Para guardar tus hábitos y grupos, mantenerlos sincronizados entre tus dispositivos y mostrar recordatorios locales en tu dispositivo.
-- Para aplicar los límites de tu plan y mantener el servicio seguro.
+- Para aplicar los límites de tu plan, verificar las compras de la App Store y mantener el servicio seguro.
 - Para atender tus solicitudes, dar soporte y cumplir obligaciones legales.
 - Para regalar Premium a algunas cuentas, por ejemplo a quienes prueban la app.
 - Para que funcione Comunidad: mostrar tu apodo y tus rutinas públicas, sugerir rutinas y revisar reportes.
@@ -60,12 +62,13 @@ Solo el desarrollador de Good Habits puede ver los datos de las cuentas en nuest
 ## Con quién compartimos información
 
 - **Google** verifica tu identidad cuando inicias sesión con Google. Google trata esos datos según su propia política de privacidad.
+- **Apple** verifica tu identidad cuando inicias sesión con Apple y procesa las compras de la App Store. Le enviamos a Apple la información de compra que necesita para confirmar una suscripción. Apple trata esos datos según su propia política de privacidad.
 - **Proveedores de servicios** alojan nuestros servidores y bases de datos. Solo pueden tratar los datos para prestar ese servicio.
 - **Motivos legales.** Podemos divulgar información cuando la ley lo exija o para proteger los derechos y la seguridad de los usuarios y del servicio.
 
 ## Copias de seguridad del dispositivo
 
-Si la copia de seguridad de Android está activada en tu dispositivo, Android puede incluir tus hábitos en la copia de tu cuenta de Google. Tus credenciales de sesión quedan excluidas. Esto lo controlas en los ajustes de tu dispositivo.
+Si la copia de seguridad de Android o la copia de seguridad de iCloud está activada en tu dispositivo, la copia puede incluir tus hábitos. Tus credenciales de sesión quedan excluidas. Esto lo controlas en los ajustes de tu dispositivo.
 
 ## Conservación
 
@@ -79,7 +82,7 @@ Puedes desactivar las notificaciones en cualquier momento desde los ajustes de t
 
 ## Eliminación de la cuenta
 
-Puedes eliminar tu cuenta y sus datos desde la app (Perfil y luego Eliminar cuenta) o pedírnoslo por correo. Consulta [Eliminación de cuenta](../account-deletion/) para ver los pasos.
+Puedes eliminar tu cuenta y sus datos desde la app (Perfil y luego Eliminar cuenta) o pedírnoslo por correo. Consulta [Eliminación de cuenta](../account-deletion/) para ver los pasos. Eliminar tu cuenta no cancela una suscripción de la App Store. Cancélala en los ajustes de tu cuenta de Apple.
 
 ## Seguridad
 

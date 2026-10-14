@@ -6,7 +6,7 @@ lang: es
 
 # Términos del Servicio
 
-Última actualización: 1 de octubre de 2026
+Última actualización: 13 de octubre de 2026
 
 Estos términos regulan el uso de Good Habits (la "app"), desarrollada por DancyMule ("nosotros"). Al crear una cuenta aceptas estos términos y la [Política de Privacidad](../privacy/). Si no los aceptas no crees una cuenta.
 
@@ -16,7 +16,7 @@ Debes tener al menos 13 años o la edad mínima exigida en tu país para usar la
 
 ## 2. Tu cuenta
 
-Inicias sesión con tu cuenta de Google. Mantén seguros tu dispositivo y tu cuenta de Google. Eres responsable de la actividad de tu cuenta. Avísanos pronto si crees que alguien la usó sin tu permiso.
+Inicias sesión con tu cuenta de Google o de Apple. Mantén seguros tu dispositivo y esa cuenta. Eres responsable de la actividad de tu cuenta. Avísanos pronto si crees que alguien la usó sin tu permiso.
 
 ## 3. El servicio
 
@@ -26,7 +26,14 @@ Good Habits te ayuda a crear hábitos y recibir recordatorios en tu dispositivo.
 
 ## 4. Planes y límites
 
-La app puede aplicar límites como un número máximo de hábitos por cuenta. Los límites vigentes se muestran en la app. Si ofrecemos planes de pago se venderán a través de Google Play y también estarán sujetos a los términos de Google Play. Te mostraremos precios y condiciones antes de comprar.
+La app puede aplicar límites como un número máximo de hábitos por cuenta. Los límites vigentes se muestran en la app. Premium puede ofrecerse como una suscripción de pago. Te mostramos el precio, el periodo de cobro y lo que incluye antes de comprar.
+
+| Tienda | Reglas |
+|---|---|
+| App Store (iPhone) | Compras con tu cuenta de Apple y también aplican los términos de Apple. La suscripción se renueva automáticamente al final de cada periodo salvo que la canceles al menos 24 horas antes de que termine, y el cargo a tu cuenta de Apple se hace dentro de las 24 horas previas a la renovación. La administras o cancelas en los ajustes de tu cuenta de Apple. Eliminar la app o tu cuenta no la cancela. Apple gestiona los reembolsos |
+| Google Play (Android) | Si se ofrecen planes de pago en Android se venderán a través de Google Play y también aplicarán los términos de Google Play |
+
+El Premium que te regalamos, por ejemplo mientras pruebas la app, termina en la fecha que fijemos o cuando lo retiremos.
 
 ## 5. Uso aceptable
 
@@ -73,6 +80,20 @@ En la medida en que la ley lo permita no respondemos por daños indirectos, inci
 
 Podemos actualizar estos términos. Cambiaremos la fecha de arriba y, si el cambio es importante, te avisaremos en la app antes de que aplique. Si no estás de acuerdo con los nuevos términos deja de usar la app y pide la eliminación de tu cuenta.
 
-## 14. Contacto
+## 14. Apps descargadas de la App Store
+
+Si descargaste Good Habits de la App Store de Apple:
+
+- Estos términos son entre tú y nosotros, no con Apple. Apple no es responsable de la app ni de su contenido.
+- Puedes usar la app en dispositivos Apple que te pertenezcan o que controles, según las Reglas de Uso de los Términos y Condiciones de los Servicios Multimedia de Apple.
+- Apple no tiene ninguna obligación de dar mantenimiento ni soporte a la app.
+- Si la app no cumple con una garantía aplicable puedes avisarle a Apple, y Apple te reembolsará el precio que pagaste por la app, si pagaste algo. Apple no tiene ninguna otra obligación de garantía sobre la app.
+- Nosotros, y no Apple, somos responsables de cualquier reclamación sobre la app, incluidas las de responsabilidad por producto, incumplimiento de requisitos legales o regulatorios y protección al consumidor.
+- Si alguien afirma que la app o tu uso de ella infringe su propiedad intelectual, nosotros, y no Apple, somos responsables de atender esa reclamación.
+- Confirmas que no te encuentras en un país sujeto a un embargo del gobierno de Estados Unidos y que no estás en ninguna lista de partes prohibidas o restringidas del gobierno de Estados Unidos.
+- También debes cumplir los términos de terceros que apliquen cuando usas la app, como los de tu operador móvil.
+- Apple y sus subsidiarias son terceros beneficiarios de estos términos y pueden exigir su cumplimiento.
+
+## 15. Contacto
 
 [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com)
