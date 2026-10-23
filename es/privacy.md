@@ -8,7 +8,7 @@ lang: es
 
 Última actualización: 23 de octubre de 2026
 
-Esta política explica cómo Good Habits (la "app") trata tu información en Android, Wear OS y iPhone. Good Habits es desarrollada por DancyMule ("nosotros"). Si tienes preguntas escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
+Esta política explica cómo Good Habits (la "app") trata tu información en Android, Wear OS y iPhone. Good Habits es desarrollada por DancyMule ("nosotros"), un desarrollador independiente con sede en México. DancyMule es el responsable del tratamiento de tu información personal. Si tienes preguntas escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
 
 ## Información que recopilamos
 
@@ -62,7 +62,21 @@ Si usas la pestaña Comunidad:
 - Para entender qué funciones se usan, decidir qué mejorar y encontrar y corregir errores.
 - Para que funcione Comunidad: mostrar tu apodo y tus rutinas públicas, sugerir rutinas y revisar reportes.
 
-Tratamos la información para prestar el servicio que solicitaste, por nuestro interés legítimo en mantenerlo seguro y funcionando, y cuando la ley lo exige. No vendemos tu información personal ni la usamos para publicidad.
+No vendemos tu información personal ni la usamos para publicidad.
+
+## Bases legales
+
+Si estás en el Espacio Económico Europeo, el Reino Unido o Suiza, nos basamos en estas bases legales:
+
+| Finalidad | Base legal |
+|---|---|
+| Tu cuenta, el inicio de sesión, los hábitos, los grupos, la sincronización, las compras de Premium y las funciones de Comunidad que decidas usar | Ejecución del contrato contigo (los Términos del Servicio) |
+| Seguridad, prevención de abusos, límites de uso, registros del servidor y revisión de reportes | Nuestro interés legítimo en mantener el servicio seguro y funcionando |
+| Estadísticas de uso y reportes de errores | Nuestro interés legítimo en entender qué funciones se usan y corregir errores. Puedes oponerte en cualquier momento con el interruptor Compartir estadísticas de uso en Perfil |
+| Regalar Premium a algunas cuentas | Nuestro interés legítimo en probar la app y agradecer a los primeros usuarios |
+| Conservar registros y atender a las autoridades | Cumplimiento de obligaciones legales |
+
+No tomamos decisiones sobre ti basadas únicamente en tratamientos automatizados que tengan efectos legales o igualmente significativos. Las sugerencias de rutinas en "Para ti" solo ordenan rutinas públicas y no afectan tu cuenta.
 
 ## Quién puede ver tu información
 
@@ -87,13 +101,25 @@ Conservamos la información de tu cuenta mientras exista. Tras una solicitud de 
 
 ## Tus opciones y derechos
 
-Según el lugar donde vivas puedes tener derecho a acceder, corregir, eliminar o exportar tu información, y a oponerte a algunos tratamientos o limitarlos. Para ejercer estos derechos escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com) desde el correo vinculado a tu cuenta. Respondemos en un plazo de 30 días. También puedes presentar una queja ante la autoridad de protección de datos de tu país.
+Según el lugar donde vivas, incluido el RGPD en el Espacio Económico Europeo y el Reino Unido, tienes estos derechos:
+
+| Derecho | Qué significa |
+|---|---|
+| Acceso | Obtener una copia de la información personal que tenemos sobre ti |
+| Rectificación | Corregir información incorrecta o incompleta |
+| Supresión | Eliminar tu cuenta y sus datos. Puedes hacerlo tú mismo desde la app |
+| Limitación | Pedirnos que limitemos el uso de tu información mientras revisamos una solicitud |
+| Portabilidad | Recibir los datos de tu cuenta (perfil, hábitos, grupos y preferencias) en un formato legible por máquina (JSON) |
+| Oposición | Oponerte a los tratamientos basados en nuestro interés legítimo. Para las estadísticas de uso y los reportes de errores, desactiva Compartir estadísticas de uso en Perfil |
+| Retirar el consentimiento | Cuando nos basemos en tu consentimiento puedes retirarlo en cualquier momento, sin afectar el tratamiento anterior |
+
+Para ejercer estos derechos escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com) desde el correo vinculado a tu cuenta. Podemos pedirte que confirmes tu identidad. Respondemos en un plazo de un mes y, si la solicitud es compleja, podemos ampliarlo hasta dos meses más explicándote el motivo. También puedes presentar una queja ante la autoridad de protección de datos del lugar donde vives o trabajas.
 
 Puedes desactivar las notificaciones en cualquier momento desde los ajustes de tu dispositivo.
 
 ## Eliminación de la cuenta
 
-Puedes eliminar tu cuenta y sus datos desde la app (Perfil y luego Eliminar cuenta) o pedírnoslo por correo. Consulta [Eliminación de cuenta](../account-deletion/) para ver los pasos. Eliminar tu cuenta no cancela una suscripción de la App Store. Cancélala en los ajustes de tu cuenta de Apple.
+Puedes eliminar tu cuenta y sus datos desde la app (Perfil y luego Eliminar cuenta) o pedírnoslo por correo. Consulta [Eliminación de cuenta](../account-deletion/) para ver los pasos. Eliminar tu cuenta no cancela una suscripción de la App Store ni de Google Play. Cancélala en los ajustes de tu cuenta de Apple o en Google Play Store.
 
 ## Seguridad
 
@@ -105,7 +131,9 @@ Good Habits no está dirigida a menores de 13 años ni a menores de la edad mín
 
 ## Transferencias internacionales
 
-Nuestros servidores y proveedores pueden estar en un país distinto al tuyo. Cuando transferimos información tomamos medidas razonables para que siga protegida según esta política.
+Nuestros servidores y bases de datos funcionan en Google Cloud en Estados Unidos (región us-central1, Iowa). Las estadísticas de uso y los reportes de errores los procesa Google Firebase, también en Estados Unidos. Si usas la app desde otro país, incluido el Espacio Económico Europeo, el Reino Unido o Suiza, tu información se transfiere a Estados Unidos.
+
+Estas transferencias están cubiertas por las Cláusulas Contractuales Tipo incluidas en los términos de tratamiento de datos de Google para Google Cloud y Firebase, y por la certificación de Google LLC en el Marco de Privacidad de Datos UE-EE. UU. y sus extensiones para el Reino Unido y Suiza. El inicio de sesión con Google y con Apple, Google Play y la App Store los gestionan Google y Apple según sus propios términos. Puedes pedirnos más información sobre estas garantías en la dirección de contacto de abajo.
 
 ## Cambios a esta política
 
