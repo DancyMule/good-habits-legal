@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated: October 13, 2026
+Last updated: October 23, 2026
 
 This policy explains how Good Habits (the "app") handles your information on Android, Wear OS, and iPhone. Good Habits is developed by DancyMule ("we" or "us"). If you have questions write to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
 
@@ -21,14 +21,22 @@ This policy explains how Good Habits (the "app") handles your information on And
 | App preferences | The mascot you choose. | Our servers, with a copy on your device and on your paired Wear OS watch |
 | Reminder timing | The next time a reminder should fire. | Only on your device |
 | Plan information | Your plan (for example free or Premium), its limits, and any Premium we give you for free, with the reason, dates, and who gave it. | Our servers |
-| Purchases | If you subscribe to Premium in the App Store: the product, Apple's transaction identifier, whether it was a real or test purchase, and when the subscription expires or was refunded. Apple handles the payment. We never receive your card or payment details. | Our servers |
+| Purchases | If you subscribe to Premium in the App Store: the product, Apple's transaction identifier, whether it was a real or test purchase, and when the subscription expires or was refunded. If you subscribe on Google Play: the product, a one-way hash of the purchase token, whether it was a test purchase, and when the subscription expires or was cancelled. Apple and Google handle the payment. We never receive your card or payment details. | Our servers |
 | Community profile | Your nickname, when you accepted the community rules, and whether you can publish. Your nickname and mascot are public. | Our servers |
 | Published routines | The groups you publish with their habits, schedules, category, tags, and description, their versions, and how many people follow them. They are public. | Our servers |
 | Followed routines | Which routines your groups come from, which version you have, and whether they update automatically. | Our servers |
 | Reports and hidden authors | Reports you send (reason and optional comment) and the authors you hide. Only the developer sees reports. | Our servers |
 | Technical data | IP address, request time, and error details our servers record while handling requests. | Our servers and hosting providers |
+| Usage statistics | Which screens you open and which features you use (for example creating a habit, following a routine, or opening Premium), with simple details such as the type of schedule. Never the names or descriptions of your habits, groups, or routines, your nickname, your searches, or your email. Linked to a random installation identifier, not to your account. | Google Firebase Analytics |
+| Crash reports | Information about app crashes and unexpected errors: device model, operating system and app version, and the technical trace of the error. Linked to a random installation identifier, not to your account. | Google Firebase Crashlytics |
 
-We do not collect your location, contacts, photos, or advertising identifier, and we do not track you across other companies' apps or websites. The app does not include advertising or analytics SDKs.
+We do not collect your location, contacts, photos, or advertising identifier, and we do not track you across other companies' apps or websites. The app does not include advertising SDKs.
+
+## Usage statistics and crash reports
+
+The published app uses Google Firebase Analytics and Firebase Crashlytics to understand which features people use and to fix crashes. We configured them so they do not collect your advertising identifier, do not use the data for advertising or ad personalization, and never receive your name, email, nickname, or the content of your habits. We do not send your account identifier.
+
+You can turn this off at any time in the app (Profile, then Share usage statistics). When it is off the app stops sending usage statistics and crash reports from that device.
 
 ## Wear OS watch
 
@@ -50,6 +58,7 @@ If you use the Community tab:
 - To apply plan limits, verify App Store purchases, and keep the service secure.
 - To respond to your requests, give support, and comply with legal obligations.
 - To give Premium for free to some accounts, for example testers.
+- To understand which features are used, decide what to improve, and find and fix crashes.
 - To run Community: show your public nickname and routines, suggest routines, and review reports.
 
 We process information to provide the service you requested, for our legitimate interest in keeping it secure and working, and when required by law. We do not sell your personal information and we do not use it for advertising.
@@ -62,6 +71,8 @@ Only the developer of Good Habits can see account data on our servers, through a
 
 - **Google** verifies your identity when you sign in with Google. Google handles that data under its own privacy policy.
 - **Apple** verifies your identity when you sign in with Apple and processes App Store purchases. We send Apple the purchase information it needs to confirm a subscription. Apple handles that data under its own privacy policy.
+- **Google Firebase** receives usage statistics and crash reports from the app, as described above. Google processes them on our behalf under the Firebase terms and does not use them for advertising.
+- **Google Play** processes Google Play purchases. We read the subscription state from Google to confirm it.
 - **Service providers** host our servers and databases for us. They may process data only to provide that service.
 - **Legal reasons.** We may disclose information when required by law or to protect the rights and safety of users and the service.
 
@@ -71,7 +82,7 @@ If Android backup or iCloud Backup is turned on for your device, the backup may 
 
 ## Retention
 
-We keep your account information while your account exists. After a deletion request we delete your account data within 30 days. Server logs are kept for up to 90 days unless they are needed to investigate a security incident. Data on your device stays until you sign out, delete it, or uninstall the app.
+We keep your account information while your account exists. After a deletion request we delete your account data within 30 days. Server logs are kept for up to 90 days unless they are needed to investigate a security incident. Usage statistics are kept for 14 months and crash reports for 90 days. Data on your device stays until you sign out, delete it, or uninstall the app.
 
 ## Your choices and rights
 
