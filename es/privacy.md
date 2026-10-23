@@ -6,7 +6,7 @@ lang: es
 
 # Política de Privacidad
 
-Última actualización: 13 de octubre de 2026
+Última actualización: 23 de octubre de 2026
 
 Esta política explica cómo Good Habits (la "app") trata tu información en Android, Wear OS y iPhone. Good Habits es desarrollada por DancyMule ("nosotros"). Si tienes preguntas escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
 
@@ -22,14 +22,22 @@ Esta política explica cómo Good Habits (la "app") trata tu información en And
 | Preferencias de la app | La mascota que eliges. | Nuestros servidores, con una copia en tu dispositivo y en tu reloj Wear OS vinculado |
 | Horario de recordatorios | El momento en que debe sonar el próximo recordatorio. | Solo en tu dispositivo |
 | Información del plan | Tu plan (por ejemplo gratuito o Premium), sus límites y cualquier Premium que te regalemos, con el motivo, las fechas y quién lo otorgó. | Nuestros servidores |
-| Compras | Si te suscribes a Premium en la App Store: el producto, el identificador de la transacción de Apple, si fue una compra real o de prueba y cuándo vence o se reembolsó la suscripción. Apple procesa el pago. Nunca recibimos los datos de tu tarjeta ni de tu pago. | Nuestros servidores |
+| Compras | Si te suscribes a Premium en la App Store: el producto, el identificador de la transacción de Apple, si fue una compra real o de prueba y cuándo vence o se reembolsó la suscripción. Si te suscribes en Google Play: el producto, un hash del token de compra, si fue una compra de prueba y cuándo vence o se canceló la suscripción. Apple y Google procesan el pago. Nunca recibimos los datos de tu tarjeta ni de tu pago. | Nuestros servidores |
 | Perfil de la comunidad | Tu apodo, cuándo aceptaste las reglas de la comunidad y si puedes publicar. Tu apodo y tu mascota son públicos. | Nuestros servidores |
 | Rutinas publicadas | Los grupos que publicas con sus hábitos, horarios, categoría, tags y descripción, sus versiones y cuántas personas los siguen. Son públicas. | Nuestros servidores |
 | Rutinas que sigues | De qué rutinas vienen tus grupos, qué versión tienes y si se actualizan solas. | Nuestros servidores |
 | Reportes y autores ocultos | Los reportes que envías (motivo y comentario opcional) y los autores que ocultas. Solo el desarrollador ve los reportes. | Nuestros servidores |
 | Datos técnicos | Dirección IP, hora de la solicitud y detalles de errores que registran nuestros servidores al atender solicitudes. | Nuestros servidores y proveedores de hospedaje |
+| Estadísticas de uso | Qué pantallas abres y qué funciones usas (por ejemplo crear un hábito, seguir una rutina o abrir Premium), con detalles simples como el tipo de horario. Nunca los nombres ni las descripciones de tus hábitos, grupos o rutinas, tu apodo, tus búsquedas ni tu correo. Ligadas a un identificador aleatorio de la instalación, no a tu cuenta. | Google Firebase Analytics |
+| Reportes de errores | Información sobre cierres inesperados y errores de la app: modelo del dispositivo, versión del sistema y de la app, y el detalle técnico del error. Ligados a un identificador aleatorio de la instalación, no a tu cuenta. | Google Firebase Crashlytics |
 
-No recopilamos tu ubicación, contactos, fotos ni identificador de publicidad, y no te rastreamos en apps o sitios web de otras empresas. La app no incluye SDK de publicidad ni de analítica.
+No recopilamos tu ubicación, contactos, fotos ni identificador de publicidad, y no te rastreamos en apps o sitios web de otras empresas. La app no incluye SDK de publicidad.
+
+## Estadísticas de uso y reportes de errores
+
+La app publicada usa Google Firebase Analytics y Firebase Crashlytics para entender qué funciones se usan y corregir errores. Los configuramos para que no recopilen tu identificador de publicidad, no usen los datos para publicidad ni personalización de anuncios y nunca reciban tu nombre, tu correo, tu apodo ni el contenido de tus hábitos. No enviamos el identificador de tu cuenta.
+
+Puedes desactivarlo cuando quieras en la app (Perfil, luego Compartir estadísticas de uso). Mientras esté desactivado, la app deja de enviar estadísticas de uso y reportes de errores desde ese dispositivo.
 
 ## Reloj Wear OS
 
@@ -51,6 +59,7 @@ Si usas la pestaña Comunidad:
 - Para aplicar los límites de tu plan, verificar las compras de la App Store y mantener el servicio seguro.
 - Para atender tus solicitudes, dar soporte y cumplir obligaciones legales.
 - Para regalar Premium a algunas cuentas, por ejemplo a quienes prueban la app.
+- Para entender qué funciones se usan, decidir qué mejorar y encontrar y corregir errores.
 - Para que funcione Comunidad: mostrar tu apodo y tus rutinas públicas, sugerir rutinas y revisar reportes.
 
 Tratamos la información para prestar el servicio que solicitaste, por nuestro interés legítimo en mantenerlo seguro y funcionando, y cuando la ley lo exige. No vendemos tu información personal ni la usamos para publicidad.
@@ -63,6 +72,8 @@ Solo el desarrollador de Good Habits puede ver los datos de las cuentas en nuest
 
 - **Google** verifica tu identidad cuando inicias sesión con Google. Google trata esos datos según su propia política de privacidad.
 - **Apple** verifica tu identidad cuando inicias sesión con Apple y procesa las compras de la App Store. Le enviamos a Apple la información de compra que necesita para confirmar una suscripción. Apple trata esos datos según su propia política de privacidad.
+- **Google Firebase** recibe las estadísticas de uso y los reportes de errores de la app, como se describe arriba. Google los trata por cuenta nuestra según los términos de Firebase y no los usa para publicidad.
+- **Google Play** procesa las compras de Google Play. Consultamos a Google el estado de la suscripción para confirmarla.
 - **Proveedores de servicios** alojan nuestros servidores y bases de datos. Solo pueden tratar los datos para prestar ese servicio.
 - **Motivos legales.** Podemos divulgar información cuando la ley lo exija o para proteger los derechos y la seguridad de los usuarios y del servicio.
 
@@ -72,7 +83,7 @@ Si la copia de seguridad de Android o la copia de seguridad de iCloud está acti
 
 ## Conservación
 
-Conservamos la información de tu cuenta mientras exista. Tras una solicitud de eliminación borramos los datos de tu cuenta en un plazo de 30 días. Los registros del servidor se conservan hasta 90 días salvo que se necesiten para investigar un incidente de seguridad. Los datos en tu dispositivo permanecen hasta que cierres sesión, los borres o desinstales la app.
+Conservamos la información de tu cuenta mientras exista. Tras una solicitud de eliminación borramos los datos de tu cuenta en un plazo de 30 días. Los registros del servidor se conservan hasta 90 días salvo que se necesiten para investigar un incidente de seguridad. Las estadísticas de uso se conservan 14 meses y los reportes de errores 90 días. Los datos en tu dispositivo permanecen hasta que cierres sesión, los borres o desinstales la app.
 
 ## Tus opciones y derechos
 
