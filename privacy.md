@@ -7,7 +7,7 @@ permalink: /privacy/
 
 Last updated: October 23, 2026
 
-This policy explains how Good Habits (the "app") handles your information on Android, Wear OS, and iPhone. Good Habits is developed by DancyMule ("we" or "us"). If you have questions write to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
+This policy explains how Good Habits (the "app") handles your information on Android, Wear OS, and iPhone. Good Habits is developed by DancyMule ("we" or "us"), an individual developer based in Mexico. DancyMule is the controller of your personal information. If you have questions write to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
 
 ## Information we collect
 
@@ -61,7 +61,21 @@ If you use the Community tab:
 - To understand which features are used, decide what to improve, and find and fix crashes.
 - To run Community: show your public nickname and routines, suggest routines, and review reports.
 
-We process information to provide the service you requested, for our legitimate interest in keeping it secure and working, and when required by law. We do not sell your personal information and we do not use it for advertising.
+We do not sell your personal information and we do not use it for advertising.
+
+## Legal bases
+
+If you are in the European Economic Area, the United Kingdom, or Switzerland, we rely on these legal bases:
+
+| Purpose | Legal basis |
+|---|---|
+| Your account, sign-in, habits, groups, sync, Premium purchases, and Community features you choose to use | Performance of our contract with you (the Terms of Service) |
+| Security, abuse prevention, rate limits, server logs, and reviewing reports | Our legitimate interest in keeping the service safe and working |
+| Usage statistics and crash reports | Our legitimate interest in understanding which features are used and fixing crashes. You can object at any time with the Share usage statistics switch in Profile |
+| Giving free Premium to some accounts | Our legitimate interest in testing the app and thanking early users |
+| Keeping records and answering authorities | Compliance with legal obligations |
+
+We do not make decisions about you based only on automated processing that have legal or similarly significant effects. Routine suggestions in "For you" only order public routines and do not affect your account.
 
 ## Who can see your information
 
@@ -86,13 +100,25 @@ We keep your account information while your account exists. After a deletion req
 
 ## Your choices and rights
 
-Depending on where you live you may have the right to access, correct, delete, or export your information, and to object to or restrict some processing. To use any of these rights write to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com) from the email address linked to your account. We answer within 30 days. You may also complain to your local data protection authority.
+Depending on where you live, including under the GDPR in the European Economic Area and the United Kingdom, you have these rights:
+
+| Right | What it means |
+|---|---|
+| Access | Get a copy of the personal information we hold about you |
+| Rectification | Correct information that is wrong or incomplete |
+| Erasure | Delete your account and its data. You can do it yourself in the app |
+| Restriction | Ask us to limit how we use your information while a request is reviewed |
+| Portability | Receive your account data (profile, habits, groups, and preferences) in a machine-readable format (JSON) |
+| Objection | Object to processing based on our legitimate interests. For usage statistics and crash reports, turn off Share usage statistics in Profile |
+| Withdraw consent | Where we rely on your consent you can withdraw it at any time, without affecting earlier processing |
+
+To use any of these rights write to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com) from the email address linked to your account. We may ask you to confirm your identity. We answer within one month, and if a request is complex we may extend that by up to two more months and tell you why. You may also complain to the data protection authority where you live or work.
 
 You can turn off notifications at any time in your device settings.
 
 ## Account deletion
 
-You can delete your account and its data from the app (Profile, then Delete account) or ask us by email. See [Account deletion](../account-deletion/) for the steps. Deleting your account does not cancel an App Store subscription. Cancel it in your Apple account settings.
+You can delete your account and its data from the app (Profile, then Delete account) or ask us by email. See [Account deletion](../account-deletion/) for the steps. Deleting your account does not cancel an App Store or Google Play subscription. Cancel it in your Apple account settings or in the Google Play Store.
 
 ## Security
 
@@ -104,7 +130,9 @@ Good Habits is not directed to children under 13 or under the minimum age requir
 
 ## International transfers
 
-Our servers and providers may be located in a country other than yours. When we transfer information we take reasonable steps so it stays protected as described here.
+Our servers and databases run on Google Cloud in the United States (region us-central1, Iowa). Usage statistics and crash reports are processed by Google Firebase, also in the United States. If you use the app from another country, including the European Economic Area, the United Kingdom, or Switzerland, your information is transferred to the United States.
+
+These transfers are covered by the Standard Contractual Clauses included in Google's data processing terms for Google Cloud and Firebase, and by Google LLC's certification under the EU-U.S. Data Privacy Framework and its UK and Swiss extensions. Sign in with Google, Sign in with Apple, Google Play, and the App Store are handled by Google and Apple under their own terms. You can ask us for more information about these safeguards at the contact address below.
 
 ## Changes to this policy
 
