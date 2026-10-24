@@ -4,7 +4,9 @@ title: Good Habits
 
 # Good Habits
 
-Good Habits is an Android app, coming soon to iPhone, that helps you build small daily habits with gentle reminders. It is developed by DancyMule.
+Good Habits is an app for iPhone, Android, and Wear OS that helps you build small daily habits with gentle reminders. It is developed by DancyMule.
+
+[Download Good Habits](download/)
 
 ## What the app does
 
@@ -24,7 +26,9 @@ You can use Good Habits without paying. There are no ads.
 
 ## Good Habits en español
 
-Good Habits es una app para Android, pronto también para iPhone, que te ayuda a crear pequeños hábitos diarios con recordatorios amables. La desarrolla DancyMule.
+Good Habits es una app para iPhone, Android y Wear OS que te ayuda a crear pequeños hábitos diarios con recordatorios amables. La desarrolla DancyMule.
+
+[Descarga Good Habits](download/)
 
 - Crea hábitos y recibe recordatorios a las horas que elijas: por intervalo, todos los días, en días de la semana o en días del mes.
 - Organiza tus hábitos en grupos y pausa un grupo completo cuando lo necesites.
@@ -38,4 +42,4 @@ Puedes usar Good Habits sin pagar. No tiene anuncios.
 - [Términos del Servicio](es/terms/)
 - [Eliminación de cuenta](es/account-deletion/)
 
-Contact: [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com)
+Contact: [hello@getgoodhabits.app](mailto:hello@getgoodhabits.app)
