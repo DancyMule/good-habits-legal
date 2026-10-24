@@ -6,9 +6,9 @@ lang: es
 
 # Política de Privacidad
 
-Última actualización: 23 de octubre de 2026
+Última actualización: 24 de octubre de 2026
 
-Esta política explica cómo Good Habits (la "app") trata tu información en Android, Wear OS y iPhone. Good Habits es desarrollada por DancyMule ("nosotros"), un desarrollador independiente con sede en México. DancyMule es el responsable del tratamiento de tu información personal. Si tienes preguntas escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
+Esta política explica cómo Good Habits (la "app") trata tu información en Android, Wear OS y iPhone. Good Habits es desarrollada por DancyMule ("nosotros"), un desarrollador independiente con sede en México. DancyMule es el responsable del tratamiento de tu información personal. Si tienes preguntas escribe a [privacy@getgoodhabits.app](mailto:privacy@getgoodhabits.app).
 
 ## Información que recopilamos
 
@@ -113,7 +113,7 @@ Según el lugar donde vivas, incluido el RGPD en el Espacio Económico Europeo y
 | Oposición | Oponerte a los tratamientos basados en nuestro interés legítimo. Para las estadísticas de uso y los reportes de errores, desactiva Compartir estadísticas de uso en Perfil |
 | Retirar el consentimiento | Cuando nos basemos en tu consentimiento puedes retirarlo en cualquier momento, sin afectar el tratamiento anterior |
 
-Para ejercer estos derechos escribe a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com) desde el correo vinculado a tu cuenta. Podemos pedirte que confirmes tu identidad. Respondemos en un plazo de un mes y, si la solicitud es compleja, podemos ampliarlo hasta dos meses más explicándote el motivo. También puedes presentar una queja ante la autoridad de protección de datos del lugar donde vives o trabajas.
+Para ejercer estos derechos escribe a [privacy@getgoodhabits.app](mailto:privacy@getgoodhabits.app) desde el correo vinculado a tu cuenta. Podemos pedirte que confirmes tu identidad. Respondemos en un plazo de un mes y, si la solicitud es compleja, podemos ampliarlo hasta dos meses más explicándote el motivo. También puedes presentar una queja ante la autoridad de protección de datos del lugar donde vives o trabajas.
 
 Puedes desactivar las notificaciones en cualquier momento desde los ajustes de tu dispositivo.
 
@@ -141,4 +141,4 @@ Podemos actualizar esta política. Cambiaremos la fecha de arriba y, si el cambi
 
 ## Contacto
 
-[juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com)
+[privacy@getgoodhabits.app](mailto:privacy@getgoodhabits.app)

@@ -5,7 +5,7 @@ permalink: /account-deletion/
 
 # Delete your Good Habits account
 
-Last updated: October 13, 2026
+Last updated: October 24, 2026
 
 Good Habits, developed by DancyMule, lets you request the deletion of your account and its data.
 
@@ -23,7 +23,7 @@ The deletion is immediate. An internet connection is required.
 
 If you can no longer use the app:
 
-1. Send an email to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com) from the email address of the Google or Apple account you use in Good Habits. If you chose Hide My Email with Apple, write from the address that receives those emails.
+1. Send an email to [privacy@getgoodhabits.app](mailto:privacy@getgoodhabits.app) from the email address of the Google or Apple account you use in Good Habits. If you chose Hide My Email with Apple, write from the address that receives those emails.
 2. Use the subject "Delete my Good Habits account".
 3. We confirm the request by replying to that address and complete the deletion within 30 days.
 

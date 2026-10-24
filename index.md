@@ -38,4 +38,4 @@ Puedes usar Good Habits sin pagar. No tiene anuncios.
 - [Términos del Servicio](es/terms/)
 - [Eliminación de cuenta](es/account-deletion/)
 
-Contact: [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com)
+Contact: [hello@getgoodhabits.app](mailto:hello@getgoodhabits.app)
