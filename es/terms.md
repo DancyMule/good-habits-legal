@@ -6,7 +6,7 @@ lang: es
 
 # Términos del Servicio
 
-Última actualización: 13 de octubre de 2026
+Última actualización: 24 de octubre de 2026
 
 Estos términos regulan el uso de Good Habits (la "app"), desarrollada por DancyMule ("nosotros"). Al crear una cuenta aceptas estos términos y la [Política de Privacidad](../privacy/). Si no los aceptas no crees una cuenta.
 
@@ -96,4 +96,4 @@ Si descargaste Good Habits de la App Store de Apple:
 
 ## 15. Contacto
 
-[juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com)
+[hello@getgoodhabits.app](mailto:hello@getgoodhabits.app)

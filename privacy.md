@@ -5,9 +5,9 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated: October 23, 2026
+Last updated: October 24, 2026
 
-This policy explains how Good Habits (the "app") handles your information on Android, Wear OS, and iPhone. Good Habits is developed by DancyMule ("we" or "us"), an individual developer based in Mexico. DancyMule is the controller of your personal information. If you have questions write to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com).
+This policy explains how Good Habits (the "app") handles your information on Android, Wear OS, and iPhone. Good Habits is developed by DancyMule ("we" or "us"), an individual developer based in Mexico. DancyMule is the controller of your personal information. If you have questions write to [privacy@getgoodhabits.app](mailto:privacy@getgoodhabits.app).
 
 ## Information we collect
 
@@ -112,7 +112,7 @@ Depending on where you live, including under the GDPR in the European Economic A
 | Objection | Object to processing based on our legitimate interests. For usage statistics and crash reports, turn off Share usage statistics in Profile |
 | Withdraw consent | Where we rely on your consent you can withdraw it at any time, without affecting earlier processing |
 
-To use any of these rights write to [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com) from the email address linked to your account. We may ask you to confirm your identity. We answer within one month, and if a request is complex we may extend that by up to two more months and tell you why. You may also complain to the data protection authority where you live or work.
+To use any of these rights write to [privacy@getgoodhabits.app](mailto:privacy@getgoodhabits.app) from the email address linked to your account. We may ask you to confirm your identity. We answer within one month, and if a request is complex we may extend that by up to two more months and tell you why. You may also complain to the data protection authority where you live or work.
 
 You can turn off notifications at any time in your device settings.
 
@@ -140,4 +140,4 @@ We may update this policy. We will change the date at the top and, for significa
 
 ## Contact
 
-[juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com)
+[privacy@getgoodhabits.app](mailto:privacy@getgoodhabits.app)

@@ -6,7 +6,7 @@ lang: es
 
 # Eliminar tu cuenta de Good Habits
 
-Última actualización: 13 de octubre de 2026
+Última actualización: 24 de octubre de 2026
 
 Good Habits, desarrollada por DancyMule, te permite solicitar la eliminación de tu cuenta y de sus datos.
 
@@ -24,7 +24,7 @@ La eliminación es inmediata. Se necesita conexión a internet.
 
 Si ya no puedes usar la app:
 
-1. Envía un correo a [juarezjorge.ar@gmail.com](mailto:juarezjorge.ar@gmail.com) desde la dirección de la cuenta de Google o de Apple que usas en Good Habits. Si elegiste Ocultar mi correo con Apple, escribe desde la dirección que recibe esos correos.
+1. Envía un correo a [privacy@getgoodhabits.app](mailto:privacy@getgoodhabits.app) desde la dirección de la cuenta de Google o de Apple que usas en Good Habits. Si elegiste Ocultar mi correo con Apple, escribe desde la dirección que recibe esos correos.
 2. Usa el asunto "Eliminar mi cuenta de Good Habits".
 3. Confirmamos la solicitud respondiendo a esa dirección y completamos la eliminación en un plazo de 30 días.
 
