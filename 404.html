@@ -9,13 +9,13 @@ permalink: /404.html
   <p id="routine-author"></p>
   <p id="routine-description"></p>
   <ul id="routine-habits"></ul>
-  <p><a id="routine-install" href="https://play.google.com/store/apps/details?id=com.dancymule.goodhabits"></a></p>
+  <p><a id="routine-install" href="/download/"></a></p>
   <p id="routine-open-hint"></p>
 </div>
 
 <div id="routine-missing" hidden>
   <h1 id="routine-missing-title"></h1>
-  <p><a id="routine-missing-install" href="https://play.google.com/store/apps/details?id=com.dancymule.goodhabits"></a></p>
+  <p><a id="routine-missing-install" href="/download/"></a></p>
 </div>
 
 <div id="not-found">
@@ -33,18 +33,18 @@ permalink: /404.html
       intro: "Rutina de la comunidad de Good Habits",
       author: "de @",
       followers: function (count) { return count === 1 ? "1 seguidor" : count + " seguidores"; },
-      install: "Descarga Good Habits en Google Play para seguir esta rutina",
-      hint: "Si ya tienes la app, abre este enlace desde tu teléfono Android.",
+      install: "Descarga Good Habits para seguir esta rutina",
+      hint: "Si ya tienes la app, abre este enlace desde tu teléfono.",
       missing: "Esta rutina ya no está disponible",
-      missingInstall: "Conoce Good Habits en Google Play"
+      missingInstall: "Conoce Good Habits"
     } : {
       intro: "A Good Habits community routine",
       author: "by @",
       followers: function (count) { return count === 1 ? "1 follower" : count + " followers"; },
-      install: "Get Good Habits on Google Play to follow this routine",
-      hint: "If you already have the app, open this link on your Android phone.",
+      install: "Get Good Habits to follow this routine",
+      hint: "If you already have the app, open this link on your phone.",
       missing: "This routine is no longer available",
-      missingInstall: "Discover Good Habits on Google Play"
+      missingInstall: "Discover Good Habits"
     };
 
     document.getElementById("not-found").hidden = true;

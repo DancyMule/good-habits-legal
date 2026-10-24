@@ -1,0 +1,66 @@
+---
+title: Download Good Habits
+permalink: /download/
+---
+
+<style>
+  .store-badges { display: flex; flex-wrap: wrap; gap: 24px; align-items: center; margin: 24px 0; }
+  .store-badges img { height: 56px; width: auto; display: block; }
+  .store-legal { color: #6a6d66; font-size: 12px; margin-top: 32px; }
+</style>
+
+<h1 id="download-title">Download Good Habits</h1>
+<p id="download-body">Cute reminders that show up, even without internet. Free on iPhone and Android.</p>
+
+<div class="store-badges">
+  <a id="app-store-link" href="https://apps.apple.com/app/id6822897834">
+    <img id="app-store-badge" src="/assets/badges/app-store-en.svg" alt="Download on the App Store">
+  </a>
+  <a id="google-play-link" href="https://play.google.com/store/apps/details?id=com.dancymule.goodhabits">
+    <img id="google-play-badge" src="/assets/badges/google-play-en.png" alt="Get it on Google Play">
+  </a>
+</div>
+
+<p class="store-legal" id="download-legal">Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries and regions. App Store is a service mark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.</p>
+
+<script>
+  (function () {
+    var APP_STORE = "https://apps.apple.com/app/id6822897834";
+    var GOOGLE_PLAY = "https://play.google.com/store/apps/details?id=com.dancymule.goodhabits";
+    var APP_STORE_PROVIDER_TOKEN = "";
+
+    var params = new URLSearchParams(window.location.search);
+    var utm = ["utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term"]
+      .filter(function (key) { return params.get(key); })
+      .map(function (key) { return key + "=" + encodeURIComponent(params.get(key)); })
+      .join("&");
+
+    var googlePlay = utm ? GOOGLE_PLAY + "&referrer=" + encodeURIComponent(utm) : GOOGLE_PLAY;
+    var campaign = [params.get("utm_source"), params.get("utm_campaign"), params.get("utm_content")]
+      .filter(Boolean).join("_").slice(0, 40);
+    var appStore = APP_STORE_PROVIDER_TOKEN && campaign
+      ? APP_STORE + "?pt=" + encodeURIComponent(APP_STORE_PROVIDER_TOKEN) + "&ct=" + encodeURIComponent(campaign)
+      : APP_STORE;
+
+    document.getElementById("app-store-link").href = appStore;
+    document.getElementById("google-play-link").href = googlePlay;
+
+    if ((navigator.language || "").toLowerCase().indexOf("es") === 0) {
+      document.documentElement.lang = "es";
+      document.title = "Descarga Good Habits";
+      document.getElementById("download-title").textContent = "Descarga Good Habits";
+      document.getElementById("download-body").textContent = "Recordatorios lindos que sí llegan, incluso sin internet. Gratis en iPhone y Android.";
+      document.getElementById("app-store-badge").src = "/assets/badges/app-store-es.svg";
+      document.getElementById("app-store-badge").alt = "Descárgalo en el App Store";
+      document.getElementById("google-play-badge").src = "/assets/badges/google-play-es.png";
+      document.getElementById("google-play-badge").alt = "Descargar en Google Play";
+      document.getElementById("download-legal").textContent = "Apple y el logotipo de Apple son marcas comerciales de Apple Inc., registradas en EE. UU. y en otros países y regiones. App Store es una marca de servicio de Apple Inc. Google Play y el logotipo de Google Play son marcas de Google LLC.";
+    }
+
+    var agent = navigator.userAgent || "";
+    var isIos = /iPhone|iPad|iPod/.test(agent) || (/Macintosh/.test(agent) && navigator.maxTouchPoints > 1);
+    var isAndroid = /Android/.test(agent);
+    if (isIos) window.location.replace(appStore);
+    else if (isAndroid) window.location.replace(googlePlay);
+  })();
+</script>
